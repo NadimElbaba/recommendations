@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+## Bienvenue !
 
-You can use the [editor on GitHub](https://github.com/NadimElbaba/recommendations/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Cette petite page vise à centraliser un ensemble de liens (articles, blogs, sites, vidéos) qui paraissent intéressants pour un développeur (surtout Java, mais pas que).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Général
+- **Site : [InfoQ](https://www.infoq.com/)**
+_Pour des news fréquentes sur le développement en général_
 
-### Markdown
+### Java
+- **Newsletter : [Baeldung Java Weekly](https://www.baeldung.com/java-web-weekly)**
+_Un mail par semaine, avec un récapitulatif des articles intéressants concernant le monde Java, Spring, et le développement en général_
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- **Vidéo : [Java Futures](https://www.youtube.com/watch?v=4r2Wg-TY7gU)**
+_Un talk de Brian Goetz lors de Devoxx Belgium 2018 qui évoque l'avenir de Java_
 
-```markdown
-Syntax highlighted code block
+- **Vidéo : [CompletableFuture : The Promises of Java](https://www.youtube.com/watch?v=9ueIL0SwEWI)**
+_Une vidéo de Venkat Subramaniam décrivant très bien le fonctionnement des CompletableFutures (disponibles depuis Java 8)_
 
-# Header 1
-## Header 2
-### Header 3
+- **Vidéo : [Functional Programming with Java 8](https://www.youtube.com/watch?v=15X0qFtBqiQ)**
+_Une autre vidéo de Venkat Subramaniam parlant de programmation fonctionnelle avec Java 8 : très instructif !_
 
-- Bulleted
-- List
+- **Vidéos : [Devoxx Belgium 2018](https://www.youtube.com/watch?v=WuZk23O76Zk&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH)**
+_La chaîne Youtube contenant l'ensemble des vidéos produites lors de Devoxx Belgium 2018 : beaucoup de contenu de qualité !_
 
-1. Numbered
-2. List
+- **Vidéos : [Oracle CodeOne 2018](https://www.youtube.com/watch?v=RFF2SfPMfpk&list=PLPIzp-E1msrZDCVSC9bFG3tKA-sOsl0GN)**
+_La chaîne Youtube contenant l'ensemble des vidéos issues de l'Oracle CodeOne 2018_
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Jakarta EE (Java EE)
+- **Vidéo : [Structuring Java EE 7 Applications](https://www.youtube.com/watch?v=grJC6RFiB58)**
+_Une vidéo d'Adam Bien décrivant une façon de structurer une application Java EE classique_
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- **Vidéo : [Java EE, Lightweight Enterprise Framework](https://www.youtube.com/watch?v=JN1iUUitgvY)**
+_Une vidéo parlant de l'adéquation de Java EE avec le cloud_
 
-### Jekyll Themes
+### Docker & Kubernetes
+A compléter
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NadimElbaba/recommendations/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Développement
+- **Vidéo : [OOP vs FP : choose two](https://www.youtube.com/watch?v=HSk5fdKbd3o)**
+_Une vidéo parlant de l'articulation des 2 styles de programmation_
 
-### Support or Contact
+### Web / Front
+A compléter
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Kafka
+- **Blog : [Confluent](https://www.confluent.io/blog/)** 
+_Le blog de Confluent, la boîte à l'origine d'Apache Kafka_
