@@ -46,3 +46,10 @@ A compléter
 ### Kafka
 - **Blog : [Confluent](https://www.confluent.io/blog/)** 
 _Le blog de Confluent, la boîte à l'origine d'Apache Kafka_
+
+### Performance
+- **Blog : [Psychosomatic, Lobotomy, Saw](http://psy-lob-saw.blogspot.com/)**
+_Le blog de Nitsan Wakart, expert performance_
+
+- **Site: [Brendan D. Gregg](http://www.brendangregg.com/)**
+_Le site et blog de Brendan Gregg, ingénieur performance chez Netflix, entre autres connu pour les FlameGraph_
