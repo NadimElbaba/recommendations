@@ -53,3 +53,7 @@ _Le blog de Nitsan Wakart, expert performance_
 
 - **Site: [Brendan D. Gregg](http://www.brendangregg.com/)**
 _Le site et blog de Brendan Gregg, ingénieur performance chez Netflix, entre autres connu pour les FlameGraph_
+
+### Architecture Microservices
+- **eBook: [Microservices antipatterns and pitfalls](https://www.oreilly.com/ideas/microservices-antipatterns-and-pitfalls)**
+_Un eBook écrit par Mark Richards qui présente quelques pièges et anti-patterns à éviter lors de la mise en oeuvre d'une architecture Microservices_
