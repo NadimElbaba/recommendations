@@ -39,6 +39,8 @@ A compléter
 ### Développement
 - **Vidéo : [OOP vs FP : choose two](https://www.youtube.com/watch?v=HSk5fdKbd3o)**
 _Une vidéo parlant de l'articulation des 2 styles de programmation_
+- **Blog + Vidéo : [TCR (test && commit || revert)](https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864)**
+_Kent Beck nous présente un workflow de développement dans la continuité du TDD, poussé à l'extrème (voir la démonstration dans [cette vidéo](https://youtu.be/ZrHBVTCbcE0))_
 
 ### Web / Front
 A compléter
