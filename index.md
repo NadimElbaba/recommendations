@@ -34,7 +34,8 @@ _Une vidéo d'Adam Bien décrivant une façon de structurer une application Java
 _Une vidéo parlant de l'adéquation de Java EE avec le cloud_
 
 ### Docker & Kubernetes
-A compléter
+- **Tutoriel : [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)**
+_Un tutoriel de Kelsey Hightower optimisé pour apprendre à démarrer un cluster Kubernetes ; il s'appuie sur GCP (Google Cloud Platform) mais peut être transposé sur d'autres plateformes_
 
 ### Développement
 - **Vidéo : [OOP vs FP : choose two](https://www.youtube.com/watch?v=HSk5fdKbd3o)**
