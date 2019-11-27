@@ -36,6 +36,8 @@ _Une vidéo parlant de l'adéquation de Java EE avec le cloud_
 ### Docker & Kubernetes
 - **Tutoriel : [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)**
 _Un tutoriel de Kelsey Hightower optimisé pour apprendre à démarrer un cluster Kubernetes ; il s'appuie sur GCP (Google Cloud Platform) mais peut être transposé sur d'autres plateformes_
+- **Blog : [Containers are not VMs](https://www.docker.com/blog/containers-are-not-vms/)**
+_Dans cet article, Mike Coleman explique pourquoi il ne faut pas concevoir un conteneur comme une VM_
 
 ### Développement
 - **Vidéo : [OOP vs FP : choose two](https://www.youtube.com/watch?v=HSk5fdKbd3o)**
