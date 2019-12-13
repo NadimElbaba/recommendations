@@ -50,6 +50,7 @@ _Kent Beck nous présente un workflow de développement dans la continuité du T
 
 - **Vidéo : [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy/)**
 _Rich Hickey met en évidence les différences entre les mots **Simple** et **Facile**, qui sont trop souvent confondus ou considérés comme synonymes_
+- **Question - réponse : [Why are software development task estimations regularly off by a factor of 2-3?](https://www.quora.com/Why-are-software-development-task-estimations-regularly-off-by-a-factor-of-2-3/answer/Michael-Wolfe)** _Dans cette réponse hilarante à une question sur [Quora](https://www.quora.com/), Michael Wolfe nous raconte son périple imaginaire de San Francisco à Los Angeles pour illustrer les difficultés rencontrées dans l'estimation des tâches de développement_
 
 - **Blog : [The Reusability Fallacy](https://www.ufried.com/blog/reusability_fallacy_1/)**
 _Série de 4 articles de Uwe Friedrichsen sur le concept de réutilisation dans le domaine du développement logiciel_
