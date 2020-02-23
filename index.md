@@ -46,6 +46,9 @@ _Kent Beck nous présente un workflow de développement dans la continuité du T
 
 - **Liens : [Awesome Code Review](https://github.com/joho/awesome-code-review)** _une (autre) liste de liens vers des articles, livres et autres contenus en relation avec la pratique de la revue de code_
 
+- **Vidéo : [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy/)**
+_Rich Hickey met en évidence les différences entre les mots **Simple** et **Facile**, qui sont trop souvent confondus ou considérés comme synonymes_
+
 ### Web / Front
 A compléter
 
