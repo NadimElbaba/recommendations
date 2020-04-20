@@ -51,6 +51,9 @@ _Kent Beck nous présente un workflow de développement dans la continuité du T
 - **Vidéo : [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy/)**
 _Rich Hickey met en évidence les différences entre les mots **Simple** et **Facile**, qui sont trop souvent confondus ou considérés comme synonymes_
 
+- **Blog : [The Reusability Fallacy](https://www.ufried.com/blog/reusability_fallacy_1/)**
+_Série de 4 articles de Uwe Friedrichsen sur le concept de réutilisation dans le domaine du développement logiciel_
+
 ### Web / Front
 A compléter
 
