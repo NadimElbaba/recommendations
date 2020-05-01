@@ -55,6 +55,9 @@ _Rich Hickey met en évidence les différences entre les mots **Simple** et **Fa
 - **Blog : [The Reusability Fallacy](https://www.ufried.com/blog/reusability_fallacy_1/)**
 _Série de 4 articles de Uwe Friedrichsen sur le concept de réutilisation dans le domaine du développement logiciel_
 
+- **Blog : [Comment Only What the Code Cannot Say](https://medium.com/@kevlinhenney/comment-only-what-the-code-cannot-say-dfdb7b8595ac)**
+_Cet article de Kevlin Henney se passe de commentaires..._
+
 ### Web / Front
 A compléter
 
