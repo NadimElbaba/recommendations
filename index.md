@@ -75,3 +75,7 @@ _Le site et blog de Brendan Gregg, ingénieur performance chez Netflix, entre au
 ### Architecture Microservices
 - **eBook: [Microservices antipatterns and pitfalls](https://www.oreilly.com/ideas/microservices-antipatterns-and-pitfalls)**
 _Un eBook écrit par Mark Richards qui présente quelques pièges et anti-patterns à éviter lors de la mise en oeuvre d'une architecture Microservices_
+
+### Infrastructure
+- **Vidéo : [Why Your Private Cloud is Probably a Bad Idea](https://www.youtube.com/watch?v=MbaPtzSuQII)**
+_Beaucoup d'entreprises choisissent de mettre en oeuvre un Cloud privé pour diverses motivations. Sam Newman analyse les raisonnements qui justifient souvent ce choix et démontre que la plupart d'entre eux sont fallacieux._
