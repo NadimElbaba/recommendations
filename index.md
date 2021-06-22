@@ -58,6 +58,9 @@ _Série de 4 articles de Uwe Friedrichsen sur le concept de réutilisation dans 
 - **Blog : [Comment Only What the Code Cannot Say](https://medium.com/@kevlinhenney/comment-only-what-the-code-cannot-say-dfdb7b8595ac)**
 _Cet article de Kevlin Henney se passe de commentaires..._
 
+- **Vidéo : [Keynote - Kent Beck](https://www.youtube.com/watch?v=UIyMs7xV6eo)**
+_Entre 2 airs de banjo, Kent Beck décrit quelques pratiques de développement dont il a le secret : Tidy First (Make The Change Easy, Then Make The Easy Change) et le TCR (Test && Commit || Revert)_
+
 ### Web / Front
 A compléter
 
